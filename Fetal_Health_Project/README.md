@@ -153,12 +153,6 @@ I'm a data analyst with hands-on experience in the full ML lifecycle — from me
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 <div align="center">
 <sub>Built with Python · Scikit-learn · XGBoost · Pandas · Jupyter</sub>
 </div>
