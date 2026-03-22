@@ -201,7 +201,7 @@ MSc Data Analytics · De Montfort University, Leicester, UK
 
 I'm a data analyst with hands-on experience in the full ML lifecycle — from messy real-world data to optimised, clinically-relevant models. This project reflects my ability to apply rigorous, scientific methodology to high-stakes domains.
 
-📫 [LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your@email.com)
+📫 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sammoseskumar/)) · [Email](mailto:da.sammoses@gmail.com)
 
 ---
 
