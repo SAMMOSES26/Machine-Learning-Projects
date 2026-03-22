@@ -132,58 +132,6 @@ Run in order for the full pipeline:
 
 ---
 
-## 🚀 Run It Yourself
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/fetal-health-classification.git
-cd fetal-health-classification
-
-# 2. Create virtual environment
-python -m venv venv
-source venv/bin/activate       # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Launch Jupyter
-jupyter notebook
-```
-
-**Dependencies (`requirements.txt`):**
-```
-pandas>=1.5
-numpy>=1.23
-scikit-learn>=1.2
-xgboost>=1.7
-imbalanced-learn>=0.10
-matplotlib>=3.6
-seaborn>=0.12
-jupyter
-```
-
----
-
-## 📂 Repository Structure
-```
-fetal-health-classification/
-├── 📂 data/
-│   └── fetal_health.csv
-├── 📂 notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Preprocessing.ipynb
-│   ├── 03_Feature_Selection.ipynb
-│   ├── 04_Model_Training.ipynb
-│   └── 05_Hyperparameter_Tuning.ipynb
-├── 📂 models/
-│   └── random_forest_final.pkl
-├── 📂 results/
-│   ├── confusion_matrices/
-│   └── performance_summary.csv
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## 🔭 What I'd Do Next
 
